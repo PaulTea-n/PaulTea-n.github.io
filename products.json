@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Квадрокоптер DJI Mavic 3",
+    "price": "98 953 ₴",
+    "url": "./images/copter_1.png",
+    "artcl": 6734,
+    "color": "grey",
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "name": "Квадрокоптер DJI Mini 3 Pro",
+    "price": "38 716 ₴",
+    "url": "./images/copter_2.png",
+    "artcl": 1673,
+    "color": "white",
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "name": "Квадрокоптер DJI Mini 2",
+    "price": "20 801 ₴",
+    "url": "./images/copter_3.png",
+    "artcl": 1589,
+    "color": "white",
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "name": "Квадрокоптер DJI Mavic 3 Fly More Combo ",
+    "price": "125 588 ₴",
+    "url": "./images/copter_4.png",
+    "artcl": 8467,
+    "color": "grey",
+    "isFavorite": false
+  },
+  {
+    "id": 5,
+    "name": "Квадрокоптер DJI Mavic Air 2",
+    "price": "40 963 ₴",
+    "url": "./images/copter_5.png",
+    "artcl": 7865,
+    "color": "white",
+    "isFavorite": false
+  },
+  {
+    "id": 6,
+    "name": "Квадрокоптер DJI Mini 3 Pro + DJI RC",
+    "price": "42 075 ₴",
+    "url": "./images/copter_6.png",
+    "artcl": 5739,
+    "color": "white",
+    "isFavorite": false
+  },
+  {
+    "id": 7,
+    "name": "Квадрокоптер DJI Mini SE",
+    "price": "15 598 ₴",
+    "url": "./images/copter_7.png",
+    "artcl": 7355,
+    "color": "white",
+    "isFavorite": false
+  },
+  {
+    "id": 8,
+    "name": "Квадрокоптер DJI Mini 2 Fly More Combo",
+    "price": "28 138 ₴",
+    "url": "./images/copter_8.png",
+    "artcl": 8077,
+    "color": "white",
+    "isFavorite": false
+  },
+  {
+    "id": 9,
+    "name": "Квадрокоптер 4DRC F3",
+    "price": "4 070 ₴",
+    "url": "./images/copter_9.png",
+    "artcl": 7634,
+    "color": "white",
+    "isFavorite": false
+  },
+  {
+    "id": 10,
+    "name": "Квадрокоптер DJI Matrice 300 RTK",
+    "price": "538 727 ₴",
+    "url": "./images/copter_10.png",
+    "artcl": 8954,
+    "color": "grey",
+    "isFavorite": false
+  }
+]
